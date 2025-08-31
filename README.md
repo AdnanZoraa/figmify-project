@@ -9,3 +9,13 @@
 ### Profile Page
 - Layout showing user info, profile picture, and settings options.
 
+## High-Fidelity Wireframes
+
+### Home Page
+- Full design with colors, fonts, and images for better UX.
+
+### Login Page
+- Styled inputs and buttons, improved layout.
+
+### Profile Page
+- Detailed user information and settings with design polish.
