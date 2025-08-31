@@ -1,2 +1,6 @@
-# figmify-project
-From Wireframe to Prototype project
+figmify-project/
+├── wireframes/
+│   ├── low-fi/
+│   └── high-fi/
+├── prototypes/
+└── README.md
